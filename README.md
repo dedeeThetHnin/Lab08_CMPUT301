@@ -1,5 +1,4 @@
-# TDD and CI pipeline
-CMPUT 301 Lab 8
+# CMPUT-301 TDD and CI pipeline
 
 # Lab-08
 
