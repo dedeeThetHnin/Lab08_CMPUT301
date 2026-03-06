@@ -24,6 +24,8 @@ public class CustomList {
     public void deleteCity(City city){
         cities.remove(city);
     }
-
-
+    // add countCity
+    public int countCities(){
+        return cities.size();
+    }
 }
